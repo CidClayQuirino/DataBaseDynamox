@@ -1,32 +1,32 @@
 metricDescriptorId,resourceId,desc_attributes,desc
-668febb557480af249f91a86,668febb5b059577b39e5fa09,velocity x,EM3401 Bomba Secção P1
-668febb557480af249f91a91,668febb5b059577b39e5fa09,velocity y,EM3401 Bomba Secção P1
-668febb557480af249f91a9c,668febb5b059577b39e5fa09,velocity z,EM3401 Bomba Secção P1
-668febb557480af249f91aa7,668febb5b059577b39e5fa09,temperature,EM3401 Bomba Secção P1
-668febb557480af249f91ab2,668febb5b059577b39e5fa09,acceleration x,EM3401 Bomba Secção P1
-668febb557480af249f91abd,668febb5b059577b39e5fa09,acceleration y,EM3401 Bomba Secção P1
-668febb557480af249f91ac9,668febb5b059577b39e5fa09,acceleration z,EM3401 Bomba Secção P1
-668febb357480af249f913de,668febb2a9700b05a71ca37d,velocity x,EM3401 Bomba Secção P2
-668febb357480af249f913e9,668febb2a9700b05a71ca37d,velocity y,EM3401 Bomba Secção P2
-668febb357480af249f913f5,668febb2a9700b05a71ca37d,velocity z,EM3401 Bomba Secção P2
-668febb357480af249f91400,668febb2a9700b05a71ca37d,temperature,EM3401 Bomba Secção P2
-668febb357480af249f9140b,668febb2a9700b05a71ca37d,acceleration x,EM3401 Bomba Secção P2
-668febb357480af249f91421,668febb2a9700b05a71ca37d,acceleration y,EM3401 Bomba Secção P2
-668febb357480af249f91432,668febb2a9700b05a71ca37d,acceleration z,EM3401 Bomba Secção P2
-668ff6e757480af2491a727c,668ff6e6765a3c089d872db8,temperature,EM3401 Motor de Translação LD
-668ff6e757480af2491a7287,668ff6e6765a3c089d872db8,acceleration x,EM3401 Motor de Translação LD
-668ff6e757480af2491a7292,668ff6e6765a3c089d872db8,acceleration y,EM3401 Motor de Translação LD
-668ff6e757480af2491a729d,668ff6e6765a3c089d872db8,acceleration z,EM3401 Motor de Translação LD
-668ff6e757480af2491a72a8,668ff6e6765a3c089d872db8,velocity x,EM3401 Motor de Translação LD
-668ff6e757480af2491a72b3,668ff6e6765a3c089d872db8,velocity y,EM3401 Motor de Translação LD
-668ff6e757480af2491a72be,668ff6e6765a3c089d872db8,velocity z,EM3401 Motor de Translação LD
-668ff6ea57480af2491a76ac,668ff6e9a9700bbff21ca91c,temperature,EM3401 Motor de Translação LE
-668ff6ea57480af2491a76b7,668ff6e9a9700bbff21ca91c,acceleration x,EM3401 Motor de Translação LE
-668ff6ea57480af2491a76c3,668ff6e9a9700bbff21ca91c,acceleration y,EM3401 Motor de Translação LE
-668ff6ea57480af2491a76ce,668ff6e9a9700bbff21ca91c,acceleration z,EM3401 Motor de Translação LE
-668ff6ea57480af2491a76d9,668ff6e9a9700bbff21ca91c,velocity x,EM3401 Motor de Translação LE
-668ff6ea57480af2491a76e4,668ff6e9a9700bbff21ca91c,velocity y,EM3401 Motor de Translação LE
-668ff6ea57480af2491a76f0,668ff6e9a9700bbff21ca91c,velocity z,EM3401 Motor de Translação LE
+668febb557480af249f91a86,668febb5b059577b39e5fa09,velocity x,EM3401 Bomba SecÃ§Ã£o P1
+668febb557480af249f91a91,668febb5b059577b39e5fa09,velocity y,EM3401 Bomba SecÃ§Ã£o P1
+668febb557480af249f91a9c,668febb5b059577b39e5fa09,velocity z,EM3401 Bomba SecÃ§Ã£o P1
+668febb557480af249f91aa7,668febb5b059577b39e5fa09,temperature,EM3401 Bomba SecÃ§Ã£o P1
+668febb557480af249f91ab2,668febb5b059577b39e5fa09,acceleration x,EM3401 Bomba SecÃ§Ã£o P1
+668febb557480af249f91abd,668febb5b059577b39e5fa09,acceleration y,EM3401 Bomba SecÃ§Ã£o P1
+668febb557480af249f91ac9,668febb5b059577b39e5fa09,acceleration z,EM3401 Bomba SecÃ§Ã£o P1
+668febb357480af249f913de,668febb2a9700b05a71ca37d,velocity x,EM3401 Bomba SecÃ§Ã£o P2
+668febb357480af249f913e9,668febb2a9700b05a71ca37d,velocity y,EM3401 Bomba SecÃ§Ã£o P2
+668febb357480af249f913f5,668febb2a9700b05a71ca37d,velocity z,EM3401 Bomba SecÃ§Ã£o P2
+668febb357480af249f91400,668febb2a9700b05a71ca37d,temperature,EM3401 Bomba SecÃ§Ã£o P2
+668febb357480af249f9140b,668febb2a9700b05a71ca37d,acceleration x,EM3401 Bomba SecÃ§Ã£o P2
+668febb357480af249f91421,668febb2a9700b05a71ca37d,acceleration y,EM3401 Bomba SecÃ§Ã£o P2
+668febb357480af249f91432,668febb2a9700b05a71ca37d,acceleration z,EM3401 Bomba SecÃ§Ã£o P2
+668ff6e757480af2491a727c,668ff6e6765a3c089d872db8,temperature,EM3401 Motor de Translacao LD
+668ff6e757480af2491a7287,668ff6e6765a3c089d872db8,acceleration x,EM3401 Motor de Translacao LD
+668ff6e757480af2491a7292,668ff6e6765a3c089d872db8,acceleration y,EM3401 Motor de Translacao LD
+668ff6e757480af2491a729d,668ff6e6765a3c089d872db8,acceleration z,EM3401 Motor de Translacao LD
+668ff6e757480af2491a72a8,668ff6e6765a3c089d872db8,velocity x,EM3401 Motor de Translacao LD
+668ff6e757480af2491a72b3,668ff6e6765a3c089d872db8,velocity y,EM3401 Motor de Translacao LD
+668ff6e757480af2491a72be,668ff6e6765a3c089d872db8,velocity z,EM3401 Motor de Translacao LD
+668ff6ea57480af2491a76ac,668ff6e9a9700bbff21ca91c,temperature,EM3401 Motor de Translacao LE
+668ff6ea57480af2491a76b7,668ff6e9a9700bbff21ca91c,acceleration x,EM3401 Motor de Translacao LE
+668ff6ea57480af2491a76c3,668ff6e9a9700bbff21ca91c,acceleration y,EM3401 Motor de Translacao LE
+668ff6ea57480af2491a76ce,668ff6e9a9700bbff21ca91c,acceleration z,EM3401 Motor de Translacao LE
+668ff6ea57480af2491a76d9,668ff6e9a9700bbff21ca91c,velocity x,EM3401 Motor de Translacao LE
+668ff6ea57480af2491a76e4,668ff6e9a9700bbff21ca91c,velocity y,EM3401 Motor de Translacao LE
+668ff6ea57480af2491a76f0,668ff6e9a9700bbff21ca91c,velocity z,EM3401 Motor de Translacao LE
 668ff96057480af24921c3e0,668ff96083c61336dd517c5d,temperature,EM3401 Cilindro Boom LD
 668ff96057480af24921c3ef,668ff96083c61336dd517c5d,acceleration x,EM3401 Cilindro Boom LD
 668ff96057480af24921c3ff,668ff96083c61336dd517c5d,acceleration y,EM3401 Cilindro Boom LD
