@@ -1,8 +1,8 @@
 metricDescriptorId,resourceId,desc_attributes,desc
-668febb557480af249f91a86,668febb5b059577b39e5fa09,velocity x,EM3401 Bomba Seccao P1
-668febb557480af249f91a91,668febb5b059577b39e5fa09,velocity y,EM3401 Bomba Seccao P1
-668febb557480af249f91a9c,668febb5b059577b39e5fa09,velocity z,EM3401 Bomba Seccao P1
-668febb557480af249f91aa7,668febb5b059577b39e5fa09,temperature,EM3401 Bomba Seccao P1
-668febb557480af249f91ab2,668febb5b059577b39e5fa09,acceleration x,EM3401 Bomba Seccao P1
-668febb557480af249f91abd,668febb5b059577b39e5fa09,acceleration y,EM3401 Bomba Seccao P1
-668febb557480af249f91ac9,668febb5b059577b39e5fa09,acceleration z,EM3401 Bomba Seccao P1
+66dedc242718e8b99c5138e0,66dedc24efc0bac50c80870f,acceleration x,6030 6P3000101_Redutor Giro LD
+66dedc242718e8b99c5138f3,66dedc24efc0bac50c80870f,acceleration y,6030 6P3000101_Redutor Giro LD
+66dedc242718e8b99c513903,66dedc24efc0bac50c80870f,acceleration z,6030 6P3000101_Redutor Giro LD
+66dedc242718e8b99c51390e,66dedc24efc0bac50c80870f,temperature,6030 6P3000101_Redutor Giro LD
+66dedc242718e8b99c513918,66dedc24efc0bac50c80870f,velocity x,6030 6P3000101_Redutor Giro LD
+66dedc242718e8b99c513924,66dedc24efc0bac50c80870f,velocity y,6030 6P3000101_Redutor Giro LD
+66dedc242718e8b99c513939,66dedc24efc0bac50c80870f,velocity z,6030 6P3000101_Redutor Giro LD
