@@ -104,3 +104,10 @@ metricDescriptorId,resourceId,desc_attributes,desc
 66dedf282718e8b99c5b5c17,66dedf28ea40c41c2eef012b,velocity x,6030 6P3000111_Redutor Giro LD
 66dedf282718e8b99c5b5c22,66dedf28ea40c41c2eef012b,velocity y,6030 6P3000111_Redutor Giro LD
 66dedf282718e8b99c5b5c33,66dedf28ea40c41c2eef012b,velocity z,6030 6P3000111_Redutor Giro LD
+66deddb02718e8b99c56e088,66deddb07ed587e15a162186,acceleration x,6030 6P3000101_Redutor Giro LE
+66deddb02718e8b99c56e093,66deddb07ed587e15a162186,acceleration y,6030 6P3000101_Redutor Giro LE
+66deddb02718e8b99c56e09f,66deddb07ed587e15a162186,acceleration z,6030 6P3000101_Redutor Giro LE
+66deddb02718e8b99c56e0b6,66deddb07ed587e15a162186,temperature,6030 6P3000101_Redutor Giro LE
+66deddb02718e8b99c56e0c4,66deddb07ed587e15a162186,velocity x,6030 6P3000101_Redutor Giro LE
+66deddb02718e8b99c56e0ce,66deddb07ed587e15a162186,velocity y,6030 6P3000101_Redutor Giro LE
+66deddb02718e8b99c56e0e5,66deddb07ed587e15a162186,velocity z,6030 6P3000101_Redutor Giro LE
