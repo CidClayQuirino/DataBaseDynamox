@@ -1,8 +1,8 @@
 metricDescriptorId,resourceId,desc_attributes,desc
-66dedf892718e8b99c5c5d62,66dedf8945d1a4943a5c84c6,acceleration x,6030 6P3000111_Redutor Giro LE
-66dedf892718e8b99c5c5d6d,66dedf8945d1a4943a5c84c6,acceleration y,6030 6P3000111_Redutor Giro LE
-66dedf892718e8b99c5c5d78,66dedf8945d1a4943a5c84c6,acceleration z,6030 6P3000111_Redutor Giro LE
-66dedf892718e8b99c5c5d88,66dedf8945d1a4943a5c84c6,temperature,6030 6P3000111_Redutor Giro LE
-66dedf892718e8b99c5c5d97,66dedf8945d1a4943a5c84c6,velocity x,6030 6P3000111_Redutor Giro LE
-66dedf892718e8b99c5c5da2,66dedf8945d1a4943a5c84c6,velocity y,6030 6P3000111_Redutor Giro LE
-66dedf892718e8b99c5c5dad,66dedf8945d1a4943a5c84c6,velocity z,6030 6P3000111_Redutor Giro LE
+668ff6ea57480af2491a76ac,668ff6e9a9700bbff21ca91c,temperature,EM3401 Motor de Translacao LE
+668ff6ea57480af2491a76b7,668ff6e9a9700bbff21ca91c,acceleration x,EM3401 Motor de Translacao LE
+668ff6ea57480af2491a76c3,668ff6e9a9700bbff21ca91c,acceleration y,EM3401 Motor de Translacao LE
+668ff6ea57480af2491a76ce,668ff6e9a9700bbff21ca91c,acceleration z,EM3401 Motor de Translacao LE
+668ff6ea57480af2491a76d9,668ff6e9a9700bbff21ca91c,velocity x,EM3401 Motor de Translacao LE
+668ff6ea57480af2491a76e4,668ff6e9a9700bbff21ca91c,velocity y,EM3401 Motor de Translacao LE
+668ff6ea57480af2491a76f0,668ff6e9a9700bbff21ca91c,velocity z,EM3401 Motor de Translacao LE
