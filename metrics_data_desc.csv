@@ -1,8 +1,8 @@
 metricDescriptorId,resourceId,desc_attributes,desc
-66ddd6672718e8b99c220884,66ddd667ea40c41c2eee6f05,acceleration x,EM3401 Motor Redutor de Giro Dianteiro
-66ddd6672718e8b99c22088f,66ddd667ea40c41c2eee6f05,acceleration y,EM3401 Motor Redutor de Giro Dianteiro
-66ddd6672718e8b99c22089a,66ddd667ea40c41c2eee6f05,acceleration z,EM3401 Motor Redutor de Giro Dianteiro
-66ddd6672718e8b99c2208a5,66ddd667ea40c41c2eee6f05,velocity x,EM3401 Motor Redutor de Giro Dianteiro
-66ddd6672718e8b99c2208b0,66ddd667ea40c41c2eee6f05,velocity y,EM3401 Motor Redutor de Giro Dianteiro
-66ddd6672718e8b99c2208bb,66ddd667ea40c41c2eee6f05,velocity z,EM3401 Motor Redutor de Giro Dianteiro
-66ddd6672718e8b99c2208c8,66ddd667ea40c41c2eee6f05,temperature,EM3401 Motor Redutor de Giro Dianteiro
+66d70a352718e8b99cb0bb9f,66d70a35a6119ffc0cd30d32,acceleration x,EM3401 Motor Redutor de Giro Traseiro
+66d70a352718e8b99cb0bbaa,66d70a35a6119ffc0cd30d32,acceleration y,EM3401 Motor Redutor de Giro Traseiro
+66d70a352718e8b99cb0bbb5,66d70a35a6119ffc0cd30d32,acceleration z,EM3401 Motor Redutor de Giro Traseiro
+66d70a352718e8b99cb0bbc2,66d70a35a6119ffc0cd30d32,temperature,EM3401 Motor Redutor de Giro Traseiro
+66d70a352718e8b99cb0bbd4,66d70a35a6119ffc0cd30d32,velocity x,EM3401 Motor Redutor de Giro Traseiro
+66d70a352718e8b99cb0bbe0,66d70a35a6119ffc0cd30d32,velocity y,EM3401 Motor Redutor de Giro Traseiro
+66d70a352718e8b99cb0bbef,66d70a35a6119ffc0cd30d32,velocity z,EM3401 Motor Redutor de Giro Traseiro
