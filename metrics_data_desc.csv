@@ -1,8 +1,8 @@
 metricDescriptorId,resourceId,desc_attributes,desc
-668fe7e957480af249edd914,668fe7e938e2532db463d8b6,velocity x,EM3401 Rolamento Giro Frontal
-668fe7e957480af249edd921,668fe7e938e2532db463d8b6,velocity y,EM3401 Rolamento Giro Frontal
-668fe7e957480af249edd933,668fe7e938e2532db463d8b6,velocity z,EM3401 Rolamento Giro Frontal
-668fe7e957480af249edd944,668fe7e938e2532db463d8b6,temperature,EM3401 Rolamento Giro Frontal
-668fe7e957480af249edd94f,668fe7e938e2532db463d8b6,acceleration x,EM3401 Rolamento Giro Frontal
-668fe7e957480af249edd95a,668fe7e938e2532db463d8b6,acceleration y,EM3401 Rolamento Giro Frontal
-668fe7e957480af249edd965,668fe7e938e2532db463d8b6,acceleration z,EM3401 Rolamento Giro Frontal
+668fe7eb57480af249ede038,668fe7eba9700bf2361ca195,velocity x,EM3401 Rolamento Giro Traseiro
+668fe7eb57480af249ede043,668fe7eba9700bf2361ca195,velocity y,EM3401 Rolamento Giro Traseiro
+668fe7eb57480af249ede04e,668fe7eba9700bf2361ca195,velocity z,EM3401 Rolamento Giro Traseiro
+668fe7eb57480af249ede059,668fe7eba9700bf2361ca195,temperature,EM3401 Rolamento Giro Traseiro
+668fe7eb57480af249ede064,668fe7eba9700bf2361ca195,acceleration x,EM3401 Rolamento Giro Traseiro
+668fe7eb57480af249ede074,668fe7eba9700bf2361ca195,acceleration y,EM3401 Rolamento Giro Traseiro
+668fe7eb57480af249ede084,668fe7eba9700bf2361ca195,acceleration z,EM3401 Rolamento Giro Traseiro
