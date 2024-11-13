@@ -1,8 +1,8 @@
 metricDescriptorId,resourceId,desc_attributes,desc
-668ff6ea57480af2491a76ac,668ff6e9a9700bbff21ca91c,temperature,EM3401 Motor de Translacao LE
-668ff6ea57480af2491a76b7,668ff6e9a9700bbff21ca91c,acceleration x,EM3401 Motor de Translacao LE
-668ff6ea57480af2491a76c3,668ff6e9a9700bbff21ca91c,acceleration y,EM3401 Motor de Translacao LE
-668ff6ea57480af2491a76ce,668ff6e9a9700bbff21ca91c,acceleration z,EM3401 Motor de Translacao LE
-668ff6ea57480af2491a76d9,668ff6e9a9700bbff21ca91c,velocity x,EM3401 Motor de Translacao LE
-668ff6ea57480af2491a76e4,668ff6e9a9700bbff21ca91c,velocity y,EM3401 Motor de Translacao LE
-668ff6ea57480af2491a76f0,668ff6e9a9700bbff21ca91c,velocity z,EM3401 Motor de Translacao LE
+66cf8259e9be161f16e1327c,66cf825924e3d86b465ec589,acceleration x,EM3401 Cilindro Boom LE
+66cf8259e9be161f16e1328b,66cf825924e3d86b465ec589,acceleration y,EM3401 Cilindro Boom LE
+66cf8259e9be161f16e1329c,66cf825924e3d86b465ec589,acceleration z,EM3401 Cilindro Boom LE
+66cf8259e9be161f16e132a7,66cf825924e3d86b465ec589,temperature,EM3401 Cilindro Boom LE
+66cf8259e9be161f16e132b3,66cf825924e3d86b465ec589,velocity x,EM3401 Cilindro Boom LE
+66cf8259e9be161f16e132be,66cf825924e3d86b465ec589,velocity y,EM3401 Cilindro Boom LE
+66cf8259e9be161f16e132c9,66cf825924e3d86b465ec589,velocity z,EM3401 Cilindro Boom LE
